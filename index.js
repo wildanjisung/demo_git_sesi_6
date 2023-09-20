@@ -1,0 +1,1 @@
+console.log("hai prakerja 6);
